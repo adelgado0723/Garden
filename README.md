@@ -4,7 +4,9 @@
 
 This project is still being developed.
 
-Will automatically water a garden based on soil moisture, light exposure, and time since last watering.
+## Software
+
+Software will automatically water a garden based on soil moisture, light exposure, and time since last watering. It will also record this information onto an SD card.
 
 
 ## Hardware
